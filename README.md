@@ -1,1 +1,1 @@
-# tampermonkey-cripts
+# tampermonkey-scripts
